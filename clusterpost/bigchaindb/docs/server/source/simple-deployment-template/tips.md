@@ -62,3 +62,4 @@ One member can make a proposal to call an election to add a validator, remove a 
 ## Logging and Log Rotation
 
 See the page in the Appendices about [logging and log rotation](../appendices/log-rotation).
+<!-- Auto-update: 2025-10-19T10:14:11.044941 -->
